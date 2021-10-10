@@ -1,4 +1,5 @@
 /**
+ * ================================================================================
  * Map Function
  * @type {Array}
  */
@@ -19,3 +20,7 @@ function functionMap(rm)
 
 console.log(rooms);
 console.log(newRooms);
+
+/**
+ * Persistent Data Structures
+ */
