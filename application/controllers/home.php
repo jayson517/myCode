@@ -12,4 +12,9 @@ class Home extends CI_Controller {
 	{
 		$this->load->view('main_view');
 	}
+
+	public function test()
+	{
+		echo "test controller";
+	}
 }
