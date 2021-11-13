@@ -7,14 +7,17 @@ p {
 	margin: 0px;
 }
 
+img {
+	border: 1px solid black;
+}
+
 .divTitle {
-	margin-top: 20px;
 	background-color: #dadada;
 	padding-left: 150px;
 }
 
 .divTopic {
-	margin-top: 30px;
-	background-color: #d1c2ee;
-	padding-left: 150px;
+	margin-top: 20px;
+	background-color: #cfe2fe;
+	padding-left: 100px;
 }
