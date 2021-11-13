@@ -1,0 +1,20 @@
+body {
+	background-color: #ececec;
+}
+
+p {
+	padding: 0px;
+	margin: 0px;
+}
+
+.divTitle {
+	margin-top: 20px;
+	background-color: #dadada;
+	padding-left: 150px;
+}
+
+.divTopic {
+	margin-top: 30px;
+	background-color: #d1c2ee;
+	padding-left: 150px;
+}
