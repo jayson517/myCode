@@ -1,0 +1,21 @@
+body {
+	background-color: #ececec;
+}
+
+.cont-main {
+	font-size: 13px;
+}
+
+.cont-main hr {
+	height: 2px;
+	background-color: black;
+}
+
+.cont-main .col-md-3:nth-child(1) {
+	padding-left: 25px;
+}
+
+.cont-main .col-md-3,
+.cont-main .col-md-6 {
+	border-right: 1px solid black;
+}

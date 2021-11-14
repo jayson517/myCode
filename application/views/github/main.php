@@ -95,7 +95,6 @@
 		<p>$ git remote add &lt;remote_name&gt; &lt;remote_url&gt;</p>
 		<p>$ git remote add jay http://github.com/jayson517/mycodes.git</p>
 
-
 		<p class="mt-3"><b>- In order to verify that the changes were made, you can use the “git remote” command with the “-v” option (for verbose)</b></p>
 		<p>$ git remote -v</p>
 
